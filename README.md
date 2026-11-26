@@ -12,7 +12,7 @@ Une description claire et concise (5-10 lignes) de votre projet.
 
 ## 👥 L'Équipe
 
-- **Nom Prénom** (@pseudo_git) : Responsable [ex: Algorithmique & Logique]
+CARMASSI Kylian TG7 @yonkosaka : Chef Projet Github
 - **Nom Prénom** (@pseudo_git) : Responsable [ex: Interface Graphique & Assets]
 - **Nom Prénom** (@pseudo_git) : Responsable [ex: Gestion des données & Documentation]
 
