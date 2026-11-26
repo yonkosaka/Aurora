@@ -1,8 +1,4 @@
----
-Auteur: Patrice MARIE-JEANNE
-title: Modèle de README pour les trophées NSI 
-tags: trophées NSI, lycée
----
+
 
 # 🚀 Nom de votre Projet
 
